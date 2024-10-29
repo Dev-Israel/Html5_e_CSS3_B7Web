@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:50px;
+}
+.link{
+    color:greenyellow;
+    font-size:30px;
+}
+
+.link:hover{
+    border: 2px solid #000;
+    padding: 10px;
+    margin: 100px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    background-color: darkgoldenrod;
+}
