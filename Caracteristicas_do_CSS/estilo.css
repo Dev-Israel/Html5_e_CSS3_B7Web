@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.container{
+    width: calc(100%-20px);
+    height: 200px;
+    background-color: rgb(128, 127, 126);
+    color: rgb(204, 44, 4);
+    font-size: 22px;
+    border: 3px solid rgba(14, 238, 227, 0.884);
+}
+.container strong{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgba(255, 228, 196, 0.466);
+    border: 3px solid rgba(0, 0, 0, 0.884);
+}
